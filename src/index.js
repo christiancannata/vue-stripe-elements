@@ -10,7 +10,7 @@ import CardCvc from './CardCvc'
 import CardNumber from './CardNumber'
 import PostalCode from './PostalCode'
 
-export default {
+module.exports = {
   Card,
   CardNumber,
   CardExpiry,
